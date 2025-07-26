@@ -27,4 +27,4 @@ private:
     int stepCount; // Tracks operation steps
 };
 
-#endif// ARRAYQUEUE_H
+#endif // ARRAYQUEUE_H
